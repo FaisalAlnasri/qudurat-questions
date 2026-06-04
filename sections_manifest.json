@@ -1,11 +1,11 @@
 {
-  "version": 6,
+  "version": 7,
   "essays": "essays.json",
   "sections": [
     "analogies.json",
     "section.json"
   ],
   "quant_sections": [
-
-   ]
+    "quant.json"
+  ]
 }
