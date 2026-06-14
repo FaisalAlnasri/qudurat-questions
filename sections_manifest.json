@@ -1,10 +1,12 @@
 {
-  "version": 14,
+  "version": 15,
   "essays": "essays.json",
   "sections": [
     "analogies.json",
     "section.json",
-    "2026.json"
+    "2026.json",
+    "2026-6-(2).json",
+    "2026-5.json"
   ],
   "quant_sections": [
     "quant.json"
