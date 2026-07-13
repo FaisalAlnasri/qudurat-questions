@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "essays": "essays.json",
   "sections": [
     "analogies.json",
@@ -11,8 +11,7 @@
   ],
   "quant_sections": [
     "quant.json",
-    "quant_original_seed.json",
-    "test-DELETE.json"
+    "quant_original_seed.json"
   ],
   "dailyDrops": "daily_drops.json"
 }
